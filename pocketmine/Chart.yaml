@@ -1,0 +1,16 @@
+apiVersion: v2
+name: pocketmine
+description: "A highly customisable, open source server software for Minecraft: Bedrock Edition"
+type: application
+version: 0.1.0
+appVersion: 3.14.2
+keywords:
+  - minecraft
+  - pocket
+  - bedrock
+sources:
+  - https://github.com/pmmp/PocketMine-MP
+home: https://www.pocketmine.net/
+maintainers:
+  - name: Silvio Gissi
+    email: silvio@gissilabs.com
